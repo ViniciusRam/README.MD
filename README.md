@@ -1,10 +1,11 @@
 ● 🐱‍💻 Atualmente estou aprendendo desenvolvimento web. <br>
 ● 🚀 Ainda não tenho experiencias profissionais na área, mas deixo nos repositórios alguns códigos de estudos que estou fazendo.
   ##
-  <a href="https://github.com/ViniciusRam">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusRam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img float="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRam&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <div align="center">
+    <a href="https://github.com/ViniciusRam">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusRam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img width="150em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRam&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
