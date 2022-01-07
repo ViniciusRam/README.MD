@@ -1,7 +1,7 @@
 ● 🐱‍💻 Atualmente estou aprendendo desenvolvimento web. <br>
 ● 🚀 Ainda não tenho experiencias profissionais na área, mas deixo nos repositórios alguns códigos de estudos que estou fazendo.
   ##
-  <div align"center">
+  <div display="inline" align"center">
     <a href="https://github.com/ViniciusRam">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusRam&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRam&layout=compact&langs_count=7&theme=cobalt"/>
