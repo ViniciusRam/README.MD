@@ -1,5 +1,5 @@
-● 🐱‍💻 Atualmente estou aprendendo desenvolvimento web. <br>
-● 🚀 Ainda não tenho experiencias profissionais na área, mas deixo nos repositórios alguns códigos de estudos que estou fazendo.
+● 🐱‍💻 Estudante de desenvolvimento WEB na Trybe <br>
+● 🚀  
   ##
   <div align="center">
     <a href="https://github.com/ViniciusRam">
