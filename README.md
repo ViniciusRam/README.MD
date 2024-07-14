@@ -1,6 +1,6 @@
 ## 👋 Hi!! I'm Vinicius Ramos.
 
-- 💻 I started my studies in 2023, learning web development. Now I’m a student at PUCPR, majoring in Analysis and Systems Development
+- 💻 I started my studies in 2022, learning web development. Now I’m a student at PUCPR, majoring in Analysis and Systems Development
 - 🐱 I'm looking for a better and free world.
 
 ##
