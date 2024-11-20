@@ -1,7 +1,8 @@
 ## 👋 Hi!! I'm Vinicius Ramos.
 
 - 💻 I started my studies in 2022, learning web development. Now I’m a student at PUCPR, majoring in Analysis and Systems Development
-- <img align="center" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I'm looking for a better and free world.
+- 💻 Comecei a estudar em 2022, aprendendo sobre desenvolvimento web. Agora faço graduação em analise e desenvolviemento de sistemas na PUCPR
+- <img align="center" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I'm looking for a better world.
 
 
  <div align="center">
