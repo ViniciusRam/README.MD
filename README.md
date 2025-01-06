@@ -1,5 +1,7 @@
 ## 👋 Hi!! I'm Vinicius Ramos.
 
+DISCLAIMER -> Atualmente meu github está parado por conta de eu ter entrado em um trabalho de 15hrs diárias (enquanto busco estágio) :)
+
 - 💻 I started my studies in 2022, learning web development. Now I’m a student at PUCPR, majoring in Analysis and Systems Development
 - 💻 Comecei a estudar em 2022, aprendendo sobre desenvolvimento web. Agora faço graduação em analise e desenvolviemento de sistemas na PUCPR
 - <img align="center" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I'm looking for a better world.
